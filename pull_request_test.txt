@@ -1,1 +1,1 @@
-this is another incorrect typo fix!
+this is a correct typo fix!
